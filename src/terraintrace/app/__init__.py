@@ -1,0 +1,1 @@
+"""Local TerrainTrace HTTP adapter."""
